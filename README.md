@@ -6,6 +6,12 @@ Keep track of everything you need for your next trip, categorise your essentials
 
 The app safely stores these entries and provides detailed, scrollable views of the packing list, including a special filter to highlight items with a quantity of two or more.
 
+---
+
+[![Android CI](https://github.com/nhlangano-16/Tracking-List-Application/actions/workflows/android.yml/badge.svg)](https://github.com/nhlangano-16/Tracking-List-Application/actions/workflows/android.yml)
+
+---
+
 # Features
 Main Input Screen — The control centre for adding new items, featuring:
 
